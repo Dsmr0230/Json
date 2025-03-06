@@ -1,0 +1,50 @@
+{
+    "carrera": {
+      "nombre": "Gran Premio de Mónaco",
+      "fecha": "2025-05-25",
+      "circuito": {
+        "nombre": "Circuito de Mónaco",
+        "ubicacion": "Montecarlo, Mónaco",
+        "longitud_km": 3.337,
+        "vueltas": 78
+      },
+      "equipos": [
+        {
+          "nombre": "Red Bull Racing",
+          "pilotos": [
+            {
+              "nombre": "Max Verstappen",
+              "nacionalidad": "Países Bajos",
+              "numero": 33
+            },
+            {
+              "nombre": "Sergio Pérez",
+              "nacionalidad": "México",
+              "numero": 11
+            }
+          ]
+        },
+        {
+          "nombre": "Mercedes-AMG Petronas",
+          "pilotos": [
+            {
+              "nombre": "Lewis Hamilton",
+              "nacionalidad": "Reino Unido",
+              "numero": 44
+            },
+            {
+              "nombre": "George Russell",
+              "nacionalidad": "Reino Unido",
+              "numero": 63
+            }
+          ]
+        }
+      ],
+      "clima": {
+        "temperatura_c": 22,
+        "humedad": "60%",
+        "condiciones": "Despejado"
+      }
+    }
+  }
+  
